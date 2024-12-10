@@ -1,0 +1,15 @@
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\bin\Debug\net9.0\Pony-Server.exe
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\bin\Debug\net9.0\Pony-Server.deps.json
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\bin\Debug\net9.0\Pony-Server.runtimeconfig.json
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\bin\Debug\net9.0\Pony-Server.dll
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\bin\Debug\net9.0\Pony-Server.pdb
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.AssemblyInfoInputs.cache
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.AssemblyInfo.cs
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.csproj.CoreCompileInputs.cache
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.sourcelink.json
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.dll
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\refint\Pony-Server.dll
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.pdb
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\Pony-Server.genruntimeconfig.cache
+C:\Users\Bread\Documents\GitHub\Pony-Server\Pony-Server\obj\Debug\net9.0\ref\Pony-Server.dll
