@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7149AE0C-5025-E3FB-5958-F49DEC716C8A}|Network\\Network.csproj|c:\\users\\bread\\onedrive\\documents\\github\\pony-server\\network\\services\\packetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7149AE0C-5025-E3FB-5958-F49DEC716C8A}|Network\\Network.csproj|solutionrelative:network\\services\\packetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7149AE0C-5025-E3FB-5958-F49DEC716C8A}|Network\\Network.csproj|c:\\users\\bread\\onedrive\\documents\\github\\pony-server\\network\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7149AE0C-5025-E3FB-5958-F49DEC716C8A}|Network\\Network.csproj|solutionrelative:network\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0C1CEB-951B-4D8E-8DD1-9B58CC4D9E29}|Rendering\\Rendering.csproj|c:\\users\\bread\\onedrive\\documents\\github\\pony-server\\rendering\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0C1CEB-951B-4D8E-8DD1-9B58CC4D9E29}|Rendering\\Rendering.csproj|solutionrelative:rendering\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0C1CEB-951B-4D8E-8DD1-9B58CC4D9E29}|Rendering\\Rendering.csproj|c:\\users\\bread\\onedrive\\documents\\github\\pony-server\\rendering\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0C1CEB-951B-4D8E-8DD1-9B58CC4D9E29}|Rendering\\Rendering.csproj|solutionrelative:rendering\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0C1CEB-951B-4D8E-8DD1-9B58CC4D9E29}|Rendering\\Rendering.csproj|c:\\users\\bread\\onedrive\\documents\\github\\pony-server\\rendering\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0C1CEB-951B-4D8E-8DD1-9B58CC4D9E29}|Rendering\\Rendering.csproj|solutionrelative:rendering\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacketService.cs",
+              "DocumentMoniker": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Network\\Services\\PacketService.cs",
+              "RelativeDocumentMoniker": "Network\\Services\\PacketService.cs",
+              "ToolTip": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Network\\Services\\PacketService.cs",
+              "RelativeToolTip": "Network\\Services\\PacketService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:45:10.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Network\\Program.cs",
+              "RelativeDocumentMoniker": "Network\\Program.cs",
+              "ToolTip": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Network\\Program.cs",
+              "RelativeToolTip": "Network\\Program.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAA2wDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:23:59.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Rendering\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "Rendering\\Services\\ChatService.cs",
+              "ToolTip": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Rendering\\Services\\ChatService.cs",
+              "RelativeToolTip": "Rendering\\Services\\ChatService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:39:15.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Rendering\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Rendering\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Rendering\\Entities\\Entity.cs",
+              "RelativeToolTip": "Rendering\\Entities\\Entity.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:26:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Rendering\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "Rendering\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\Bread\\OneDrive\\Documents\\GitHub\\Pony-Server\\Rendering\\Entities\\Player.cs",
+              "RelativeToolTip": "Rendering\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:09:50.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

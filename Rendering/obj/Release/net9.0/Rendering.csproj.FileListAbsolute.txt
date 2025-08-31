@@ -1,0 +1,17 @@
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\bin\Release\net9.0\Rendering.deps.json
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\bin\Release\net9.0\Rendering.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\bin\Release\net9.0\Rendering.pdb
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\bin\Release\net9.0\Core.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\bin\Release\net9.0\Core.pdb
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.csproj.AssemblyReference.cache
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Avalonia\Resources.Inputs.cache
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.AssemblyInfoInputs.cache
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.AssemblyInfo.cs
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.csproj.CoreCompileInputs.cache
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.sourcelink.json
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.csproj.Up2Date
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\refint\Rendering.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\Rendering.pdb
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Rendering\obj\Release\net9.0\ref\Rendering.dll

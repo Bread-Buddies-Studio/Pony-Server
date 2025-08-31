@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pony-Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2405f793e9ad57e9a6ce2808a59a31e6eb6f39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a767dd1b92d7239b0347d0d7c68ff15d32dbb163")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pony-Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pony-Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

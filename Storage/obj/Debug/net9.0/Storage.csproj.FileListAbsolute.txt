@@ -1,0 +1,13 @@
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\bin\Debug\net9.0\Storage.deps.json
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\bin\Debug\net9.0\Storage.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\bin\Debug\net9.0\Storage.pdb
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\Storage.AssemblyInfoInputs.cache
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\Storage.AssemblyInfo.cs
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\Storage.sourcelink.json
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\Storage.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\refint\Storage.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\Storage.pdb
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\obj\Debug\net9.0\ref\Storage.dll
+C:\Users\Bread\OneDrive\Documents\GitHub\Pony-Server\Storage\bin\Debug\net9.0\Data\Storage

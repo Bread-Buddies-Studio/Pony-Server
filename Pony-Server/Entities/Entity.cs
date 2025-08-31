@@ -1,18 +1,28 @@
 // Directory //
-namespace Entities;
+namespace ServerSpace.Entities;
 // Imports //
+using ServerSpace.Services;
 using System.Collections;
 using System.Drawing;
 using System.Numerics;
 using System.Reflection.Metadata;
-using System.Security.Cryptography.X509Certificates;
+using System.Diagnostics.CodeAnalysis;
+using System.Runtime.CompilerServices;
 
+// Enums //
+public enum EntityStates
+{
+    Walking,
+    Idle,
+    Chatting,
+}
 // Classes //
 public abstract class Entity
 {
     // Static Data //
-    public static List<Entity> Entities = new();
+    public static readonly List<Entity> Entities = new();
     // Instance Data //
+    public required float Speed = 5;
     public required RectangleF Hitbox;
     public required Vector2 Position 
     {
@@ -24,7 +34,11 @@ public abstract class Entity
         get => Hitbox.Size;
         set => Hitbox.Size = value;
     }
-    // Constructors //
+    public required bool Direction = true;
+    public required Color DialogueColor = Color.White;
+    private bool animRunning = false;
+    // Constructors // 
+    [SetsRequiredMembers]
     public Entity(RectangleF Hitbox) : base()
     {
         // Settings //
@@ -33,7 +47,11 @@ public abstract class Entity
         Entities.Add(this);
     }
 
-    public Entity(Vector2 Position, SizeF Size) : this(new RectangleF())
+    [SetsRequiredMembers]
+    public Entity() : this(new RectangleF()) {}
+
+    [SetsRequiredMembers]
+    public Entity(Vector2 Position, SizeF Size) : this()
     {
         this.Position = Position;
         this.Size = Size;
@@ -56,9 +74,4 @@ public abstract class Entity
         return Position;
     }
     public Vector2 Translate(float x, float y) => Translate(new Vector2(x, y));
-
-    public bool Speak()
-    {
-        return false;
-    }
 }

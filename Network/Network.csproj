@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="Avalonia" Version="11.3.0" />
+    <PackageReference Include="LiteNetLib" Version="1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\Rendering\Rendering.csproj" />
+    <ProjectReference Include="..\Storage\Storage.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Structs\" />
+  </ItemGroup>
+
+</Project>

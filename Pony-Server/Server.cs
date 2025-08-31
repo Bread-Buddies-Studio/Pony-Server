@@ -5,6 +5,7 @@ using System;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using System.Text.Json;
 using static NetworkData;
 // Classes //
 public static class Server
@@ -60,4 +61,9 @@ public static class Server
             //    Socket server sent acknowledgment: "<|ACK|>"
         }
     }
+}
+
+internal class DataToSend
+{
+    
 }
